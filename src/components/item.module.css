@@ -1,0 +1,28 @@
+.item_box{
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.image{
+  
+    margin-right:1rem;
+}
+
+img {
+   
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+h2{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+p{
+    color: #999;
+    margin-bottom: 20px;
+}
